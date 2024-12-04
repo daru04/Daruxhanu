@@ -52,47 +52,19 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devil Brand</title>
+    <title>Daru Brand</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: pink;
-            color: red;
-        }
-        .container {
-            max-width: 500px;
-            background-color: blue;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-            margin: 0 auto;
-            margin-top: 20px;
-        }
-        .header {
-            text-align: center;
-            padding-bottom: 20px;
-        }
-        .btn-submit {
-            width: 100%;
-            margin-top: 10px;
-            background-color: red;
-            color: white;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 20px;
-            color: #444;
-        }
-        .footer a {
-            color: red;
+            
         }
     </style>
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️WARIOUR RULEX❤️</h1>
+        <h1 class="mb-3">☘️ ALONESTAND ❤️</h1>
         <h2>OWNR :: 
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</h2>
+⎯꯭̽🌱꯭♡DAرU☯🖤⎯꯭̽⟶꯭</h2>
     </header>
 
     <div class="container">
@@ -122,10 +94,10 @@ def send_message():
     </div>
 
     <footer class="footer">
-        <p>&copy; 2023 Devil Brand. All Rights Reserved.</p>
+        <p>&copy; 2021 daru Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
         <p>Made with ♥ by <a href="https://github.com/DEVILXWD">
-⎯꯭̽🌱꯭♡🅓evᎥᏞ☯🖤⎯꯭̽⟶꯭</a></p>
+⎯꯭̽🌱꯭♡daru☯🖤⎯꯭̽⟶꯭</a></p>
     </footer>
 
     <script>
