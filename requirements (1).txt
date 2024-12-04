@@ -1,2 +1,2 @@
-Flask
-requests
+
+pip install -r 
